@@ -11,3 +11,4 @@ git stash drop
 git stash list
 git reset
 git diff
+git reset HEAD tips.txt

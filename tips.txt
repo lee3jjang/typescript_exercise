@@ -1,0 +1,14 @@
+git commit --amend
+git add -p
+git reset HEAD^
+git log
+git log --oneline --log
+git status
+git stash
+git stash apply
+git stash apply --index
+git stash drop
+git stash list
+git reset
+git diff
+git reset HEAD tips.txt
